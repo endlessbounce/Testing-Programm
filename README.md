@@ -1,5 +1,7 @@
 # Testing-Programm
-Simple console program for testing.
+Simple console program for testing in Java.
+Supports admin/user interfaces.
+
 Used MySQL tables:
 
 CREATE TABLE users (
